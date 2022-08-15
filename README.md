@@ -1,3 +1,3 @@
 # mytest README.md bla bla bla
-update 2
+update 1
 add push
